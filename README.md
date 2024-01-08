@@ -21,3 +21,7 @@ graph TD
     G --> H
     H --> I
 ```
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
